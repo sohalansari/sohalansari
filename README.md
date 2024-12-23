@@ -3,7 +3,7 @@
   <img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_OIUet1dRnEI3NPUYZXhOqmhh7d4_jM2J5Q&s" alt="coding" width="400">
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohalansari&label=Profile%20views&color=0e75b6&style=flat" alt="sohalansari" /> </p>
   
-  - 🌱 I’m currently learning **Node.js , cloud Engineering(AWS)**
+  - 🌱 I’m currently learning **Node.js , cloud Engineering(AWS), React.js**
   
   - 👨‍💻 All of my projects are available at [https://github.com/sohalansari](https://github.com/sohalansari)
   
